@@ -5,3 +5,7 @@ Sound effects by Game Sound Solutions
 Link: https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255
 
 Emoji and Nokia graphics made by me.
+
+Controls:
+Space to Move up
+Esc to pause
